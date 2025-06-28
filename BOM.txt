@@ -1,0 +1,15 @@
+Bill of Materials (BOM) - FM Spy Bug Project
+
+1. Resistor R1 = 22kΩ
+2. Resistor R2 = 47kΩ
+3. Resistor R3 = 330Ω
+4. Capacitor C1 = 1nF
+5. Capacitor C2 = 1nF
+6. Capacitor C3 = 4.7pF
+7. Capacitor C4 = 1nF
+8. Capacitor C5 = 22nF
+9. Variable Capacitor VC1 = 50pF
+10. Inductor L1 = 8 Turns, 6mm DIA AIR CORE, 25 SWG Enamelled Copper Wire
+11. Transistor T1 = 2N3904 or BF494 (NPN)
+12. Microphone (MIC)
+13. Antenna = 20cm Copper Wire, 24 gauge
