@@ -29,8 +29,8 @@ The project uses a Colpitts oscillator for generating the carrier signal. Audio 
 ## 📂 Files
 
 - `FM_Spy_Bug.pptx` – Main presentation
-- `circuit_diagram.png` – Schematic of the transmitter (add if available)
-- `output_waveform.png` – Visual output
+- `circuit_diagram.png` – Schematic of the transmitter (in pptx)
+- `output_waveform.png` – Visual output(in pptx)
 - `BOM.txt` – List of components
 
 ## 📝 License
